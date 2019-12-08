@@ -1,0 +1,7 @@
+
+- use both "o" and "oe" transliterations simultaneously for German
+  - we should have 3 results - transliterations to "o", "oe" and "both"
+- split off words that occur only in form without diacritics from the total tally
+- split counts into the cases where the base form is included in the variants and where it is not
+- provide examples of the more frequent collisions
+
